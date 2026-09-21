@@ -1,7 +1,6 @@
 {
-  "name": "proposalforge-pro",
+  "name": "proposalforge",
   "version": "1.0.0",
-  "description": "ProposalForge PRO - Proposal management system - Render compatible",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
@@ -13,6 +12,6 @@
     "dotenv": "^16.3.1"
   },
   "engines": {
-    "node": "18.x"
+    "node": "20.x"
   }
 }
