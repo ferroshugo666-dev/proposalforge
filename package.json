@@ -1,0 +1,28 @@
+{
+  "name": "proposalforge",
+  "version": "1.0.0",
+  "description": "ProposalForge is a lightweight Node.js + Express + SQLite application for managing clients, services and commercial proposals, with status tracking.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch --env-file=.env server.js"
+  },
+  "keywords": [
+    "proposals",
+    "crm",
+    "clients",
+    "quotes",
+    "express",
+    "sqlite"
+  ],
+  "author": "",
+  "license": "See LICENSE.txt",
+  "type": "commonjs",
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  },
+  "dependencies": {
+    "dotenv": "^18.0.1",
+    "express": "^5.2.1"
+  }
+}

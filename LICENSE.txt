@@ -1,0 +1,24 @@
+﻿ProposalForge
+Copyright (c) [YEAR] [YOUR NAME / COMPANY]
+
+This software is distributed under the license terms of the marketplace
+through which it was purchased (Codester Regular License / Extended
+License, as applicable).
+
+Under the Regular License, the buyer may use this item to create one
+single end product for either themselves or for one client, to be used
+by either the buyer or their client, for which no charge is made.
+
+Under the Extended License, the buyer may use this item to create one
+single end product for which end users may be charged.
+
+In both cases, redistributing, resselling or sublicensing the source
+code of this item, in whole or in part, as a standalone or
+competing product, is not permitted.
+
+For full license terms, refer to the license selected at the time of
+purchase on Codester (https://www.codester.com/licensing/).
+
+Replace [YEAR] and [YOUR NAME / COMPANY] above with your own details
+before publishing this item.
+
