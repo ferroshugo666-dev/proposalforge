@@ -1,6 +1,11 @@
-const app = require("./src/app");
-const PORT = process.env.PORT || 3000;
+const path = require('path');
+require('dotenv').config();
+const app = require('./src/app');
 
-app.listen(PORT, '0.0.0.0', () => {
-    console.log(`ProposalForge running at http://localhost:${PORT}`);
+const PORT = process.env.PORT || 3000;
+const HOST = '0.0.0.0';
+
+app.listen(PORT, HOST, () => {
+  console.log(`ProposalForge PRO running at http://${HOST}:${PORT}`);
+  console.log(`Login: /login | Password: ${process.env.ADMIN_PASSWORD || 'admin123'}`);
 });
